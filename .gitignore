@@ -1,0 +1,8 @@
+model/
+venv/
+data/
+images/
+__pycache__/
+data.zip
+model.zip
+ovm_pro.py
